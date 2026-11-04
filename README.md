@@ -1,4 +1,4 @@
-# Hi, I'm Sasmith 👋
+# Hi, I'm Sasmith 
 
 Student at ABV-IIITM Gwalior, building backend systems and contributing to open source.
 
@@ -8,12 +8,9 @@ Student at ABV-IIITM Gwalior, building backend systems and contributing to open 
 - Getting started with open-source contributions to backend and developer-tooling projects.
 
 ## Recent contributions
-<!-- Add merged PRs here as they land, e.g.: -->
-<!-- - [owner/repo#123](https://github.com/owner/repo/pull/123): short description -->
 - Coming soon.
 
 ## Tech I use
-Python (FastAPI, Pydantic, pytest) · TypeScript / Node.js (Express) · React · Elasticsearch · MongoDB · SQLite · Docker · GitHub Actions · learning Rust
+Python (FastAPI, Pydantic, pytest) · TypeScript / Node.js (Express) · React · Elasticsearch · MongoDB · SQLite · Docker · GitHub Actions 
 
-## Reach me
-Open an issue on any of my repos, or email suvarnasasmith14@gmail.com.
+
