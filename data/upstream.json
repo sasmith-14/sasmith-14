@@ -1,0 +1,209 @@
+{
+  "changed": "2026-11-20",
+  "data": {
+    "login": "sasmith-14",
+    "counts": {
+      "merged": 3,
+      "repos_merged": 3,
+      "best_single_repo": 1,
+      "open": 6,
+      "in_review": 1,
+      "closed": 1,
+      "fixed": 2,
+      "reported_open": 3
+    },
+    "rung": 2,
+    "rung_name": "Multi-project",
+    "rungs_met": [
+      true,
+      true,
+      false,
+      false
+    ],
+    "projects": [
+      {
+        "repo": "JuliaGPU/KernelAbstractions.jl",
+        "url": "https://github.com/JuliaGPU/KernelAbstractions.jl",
+        "stars": 535,
+        "items": [
+          {
+            "kind": "pr",
+            "number": 948,
+            "title": "Add `get_backend` for `Memory`",
+            "url": "https://github.com/JuliaGPU/KernelAbstractions.jl/pull/948",
+            "status": "merged",
+            "date": "2026-11-07"
+          },
+          {
+            "kind": "pr",
+            "number": 957,
+            "title": "Accept `Memory` as a kernel argument on the POCL backend",
+            "url": "https://github.com/JuliaGPU/KernelAbstractions.jl/pull/957",
+            "status": "open",
+            "reviews": 3
+          },
+          {
+            "kind": "issue",
+            "number": 949,
+            "title": "BFloat16 tests fail on Apple M5 (ties not rounded to even)",
+            "url": "https://github.com/JuliaGPU/KernelAbstractions.jl/issues/949",
+            "status": "fixed",
+            "fixed_by": {
+              "ref": "JuliaPackaging/Yggdrasil#15480",
+              "url": "https://github.com/JuliaPackaging/Yggdrasil/pull/15480"
+            }
+          }
+        ],
+        "merged": 1
+      },
+      {
+        "repo": "JuliaGPU/GPUArrays.jl",
+        "url": "https://github.com/JuliaGPU/GPUArrays.jl",
+        "stars": 462,
+        "items": [
+          {
+            "kind": "pr",
+            "number": 849,
+            "title": "Copy from `BitArray`s to GPU arrays without scalar indexing",
+            "url": "https://github.com/JuliaGPU/GPUArrays.jl/pull/849",
+            "status": "merged",
+            "date": "2026-11-19"
+          },
+          {
+            "kind": "pr",
+            "number": 862,
+            "title": "Implement `findmin!` and `findmax!` for GPU arrays",
+            "url": "https://github.com/JuliaGPU/GPUArrays.jl/pull/862",
+            "status": "open",
+            "reviews": 0
+          }
+        ],
+        "merged": 1
+      },
+      {
+        "repo": "apache/wayang",
+        "url": "https://github.com/apache/wayang",
+        "stars": 284,
+        "items": [
+          {
+            "kind": "pr",
+            "number": 873,
+            "title": "Remove stale TODO from FlinkReduceByOperatorTest #228",
+            "url": "https://github.com/apache/wayang/pull/873",
+            "status": "merged",
+            "date": "2026-11-12"
+          },
+          {
+            "kind": "pr",
+            "number": 885,
+            "title": "Fix JavaReservoirSampleOperator returning the whole input when the dataset size is unknown",
+            "url": "https://github.com/apache/wayang/pull/885",
+            "status": "open",
+            "reviews": 0
+          },
+          {
+            "kind": "issue",
+            "number": 895,
+            "title": "DISCLAIMER and some \"(incubating)\" references are still around after graduation",
+            "url": "https://github.com/apache/wayang/issues/895",
+            "status": "reported"
+          },
+          {
+            "kind": "issue",
+            "number": 884,
+            "title": "JavaReservoirSampleOperator returns the whole input when the dataset size is unknown",
+            "url": "https://github.com/apache/wayang/issues/884",
+            "status": "reported"
+          }
+        ],
+        "merged": 1
+      },
+      {
+        "repo": "JuliaGPU/Metal.jl",
+        "url": "https://github.com/JuliaGPU/Metal.jl",
+        "stars": 471,
+        "items": [
+          {
+            "kind": "pr",
+            "number": 1136,
+            "title": "Accept flushed subnormals in the BFloat16 conversion test",
+            "url": "https://github.com/JuliaGPU/Metal.jl/pull/1136",
+            "status": "open",
+            "reviews": 0
+          },
+          {
+            "kind": "issue",
+            "number": 1135,
+            "title": "BFloat16 conversion test fails on M5: subnormal `Float32` inputs flush to zero",
+            "url": "https://github.com/JuliaGPU/Metal.jl/issues/1135",
+            "status": "reported"
+          }
+        ],
+        "merged": 0
+      },
+      {
+        "repo": "SciML/DiffEqGPU.jl",
+        "url": "https://github.com/SciML/DiffEqGPU.jl",
+        "stars": 332,
+        "items": [
+          {
+            "kind": "pr",
+            "number": 592,
+            "title": "Support `DynamicalODEFunction` and `SecondOrderODEProblem` in `EnsembleGPUArray`",
+            "url": "https://github.com/SciML/DiffEqGPU.jl/pull/592",
+            "status": "open",
+            "reviews": 0
+          }
+        ],
+        "merged": 0
+      },
+      {
+        "repo": "JuliaGPU/AcceleratedKernels.jl",
+        "url": "https://github.com/JuliaGPU/AcceleratedKernels.jl",
+        "stars": 204,
+        "items": [
+          {
+            "kind": "pr",
+            "number": 210,
+            "title": "Run operations on BitArrays on the host, writing to them on one task",
+            "url": "https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/210",
+            "status": "open",
+            "reviews": 0
+          }
+        ],
+        "merged": 0
+      },
+      {
+        "repo": "JuliaGPU/GPUCompiler.jl",
+        "url": "https://github.com/JuliaGPU/GPUCompiler.jl",
+        "stars": 192,
+        "items": [
+          {
+            "kind": "pr",
+            "number": 1089,
+            "title": "Only lower calls to declared throw functions",
+            "url": "https://github.com/JuliaGPU/GPUCompiler.jl/pull/1089",
+            "status": "closed",
+            "date": "2026-11-17",
+            "superseded_by": {
+              "ref": "#1094",
+              "url": "https://github.com/JuliaGPU/GPUCompiler.jl/pull/1094"
+            }
+          },
+          {
+            "kind": "issue",
+            "number": 1088,
+            "title": "`lower_throw!` treats any function whose name contains `jl_error` etc. as a throw (kernel becomes a trap / segfault)",
+            "url": "https://github.com/JuliaGPU/GPUCompiler.jl/issues/1088",
+            "status": "fixed",
+            "fixed_by": {
+              "ref": "#1094",
+              "url": "https://github.com/JuliaGPU/GPUCompiler.jl/pull/1094"
+            }
+          }
+        ],
+        "merged": 0
+      }
+    ]
+  }
+}
