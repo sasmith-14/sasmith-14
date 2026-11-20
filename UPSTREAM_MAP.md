@@ -1,6 +1,17 @@
-# Upstream Map: method
+# Upstream contributions: method
 
-The Upstream Map on my profile shows what I have contributed to repositories I don't own. Every mark comes from the GitHub API. Nothing is typed in by hand.
+The graphics in the "Upstream contributions" section of my profile show what I have contributed to repositories I don't own. Every mark comes from the GitHub API. Nothing is typed in by hand.
+
+## Views
+
+All four views are drawn from the same data on each run.
+
+- **Git graph**: one lane per project on a real timeline. Merged PRs branch off and rejoin upstream, open PRs run to today, and closed PRs end in a cross. It covers all history, the axis zooms out from days to weeks to months as needed, and it shows at most 8 projects.
+- **Transit**: each org is a line and each project is a station. A ring marks a station where my code was merged. The rung appears as a zone.
+- **Orbit**: projects are planets sized by star count, and my PRs and reports are moons. Positions carry no meaning.
+- **Pipeline**: each PR's stage, Opened → Reviewed → Merged. A PR counts as reviewed once someone other than me has reviewed it, or once it has been merged.
+
+Only work that is still in progress animates.
 
 ## Sources
 
@@ -8,7 +19,7 @@ The Upstream Map on my profile shows what I have contributed to repositories I d
 2. One GraphQL query per repository fetches the details: star count, merge state, reviews, and what closed each issue.
 3. Repositories owned by `sasmith-14`, including my forks, are excluded.
 
-The [workflow](.github/workflows/upstream-map.yml) runs daily, on demand, and when the script changes. The last result is stored in [`data/upstream.json`](data/upstream.json).
+The [workflow](.github/workflows/upstream-map.yml) runs daily, on demand, and when the script changes. The git graph ends at today, so it changes daily, and the workflow commits once a day as `github-actions[bot]`. The last result is stored in [`data/upstream.json`](data/upstream.json).
 
 ## Marks
 
@@ -43,4 +54,4 @@ The script computes everything before writing anything. It exits without changin
 - the search returns no upstream PRs, or
 - the merged count drops below the last stored run.
 
-A drop can be real, for example if a repository is deleted. In that case, run the workflow manually with `allow_shrink`. The workflow commits only when the output changes, and commits as `github-actions[bot]`.
+A drop can be real, for example if a repository is deleted. In that case, run the workflow manually with `allow_shrink`.

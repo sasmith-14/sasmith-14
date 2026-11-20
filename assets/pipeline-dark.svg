@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="512" viewBox="0 0 760 512" role="img" aria-labelledby="t d"><title id="t">Upstream contributions: pipeline</title><desc id="d">3 pull requests merged into 3 upstream projects, 6 open, 2 of my bug reports fixed upstream. Rung 2 of 4: Multi-project.</desc><style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;font-variant-numeric:tabular-nums}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x=".5" y=".5" width="759" height="511" rx="8" fill="#0d1117" stroke="#30363d"/>
+<circle cx="34" cy="34" r="9" fill="#3fb950"/><path d="M29.5 34l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<text x="52" y="39" font-size="16" font-weight="700" fill="#e6edf3">upstream / contribution pipeline</text>
+<text x="24" y="66" font-size="12.5" fill="#9198a1">10 opened → 4 reviewed → <tspan font-weight="700" fill="#e6edf3">3 merged</tspan> · 2 reports fixed · rung 2/4 Multi-project</text>
+<text x="372" y="94" font-size="11" font-weight="600" fill="#9198a1" text-anchor="middle">OPENED</text>
+<text x="482" y="94" font-size="11" font-weight="600" fill="#9198a1" text-anchor="middle">REVIEWED</text>
+<text x="592" y="94" font-size="11" font-weight="600" fill="#9198a1" text-anchor="middle">MERGED</text>
+<rect x="12" y="95.0" width="736" height="34" rx="4" fill="#151b23"/>
+<text data-item="JuliaGPU/GPUArrays.jl#862" x="24" y="116" font-size="12.5" fill="#e6edf3"><tspan font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" fill="#9198a1">#862</tspan>  GPUArrays.jl</text>
+<line x1="382" y1="112" x2="472" y2="112" stroke="#30363d" stroke-width="2"/>
+<line x1="492" y1="112" x2="582" y2="112" stroke="#30363d" stroke-width="2"/>
+<circle cx="372.0" cy="112.0" r="9" fill="#3fb950"/><path d="M367.5 112.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="482.0" cy="112.0" r="8" fill="none" stroke="#d29922" stroke-width="2" stroke-dasharray="12 38"><animateTransform attributeName="transform" type="rotate" from="0 482.0 112.0" to="360 482.0 112.0" dur="1.2s" repeatCount="indefinite"/></circle><circle cx="482.0" cy="112.0" r="3" fill="#d29922"/>
+<circle cx="592.0" cy="112.0" r="8" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<text x="626" y="116" font-size="11.5" fill="#9198a1">awaiting review</text>
+<text data-item="apache/wayang#885" x="24" y="150" font-size="12.5" fill="#e6edf3"><tspan font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" fill="#9198a1">#885</tspan>  wayang</text>
+<line x1="382" y1="146" x2="472" y2="146" stroke="#30363d" stroke-width="2"/>
+<line x1="492" y1="146" x2="582" y2="146" stroke="#30363d" stroke-width="2"/>
+<circle cx="372.0" cy="146.0" r="9" fill="#3fb950"/><path d="M367.5 146.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="482.0" cy="146.0" r="8" fill="none" stroke="#d29922" stroke-width="2" stroke-dasharray="12 38"><animateTransform attributeName="transform" type="rotate" from="0 482.0 146.0" to="360 482.0 146.0" dur="1.2s" repeatCount="indefinite"/></circle><circle cx="482.0" cy="146.0" r="3" fill="#d29922"/>
+<circle cx="592.0" cy="146.0" r="8" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<text x="626" y="150" font-size="11.5" fill="#9198a1">awaiting review</text>
+<rect x="12" y="163.0" width="736" height="34" rx="4" fill="#151b23"/>
+<text data-item="JuliaGPU/AcceleratedKernels.jl#210" x="24" y="184" font-size="12.5" fill="#e6edf3"><tspan font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" fill="#9198a1">#210</tspan>  AcceleratedKernels.jl</text>
+<line x1="382" y1="180" x2="472" y2="180" stroke="#30363d" stroke-width="2"/>
+<line x1="492" y1="180" x2="582" y2="180" stroke="#30363d" stroke-width="2"/>
+<circle cx="372.0" cy="180.0" r="9" fill="#3fb950"/><path d="M367.5 180.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="482.0" cy="180.0" r="8" fill="none" stroke="#d29922" stroke-width="2" stroke-dasharray="12 38"><animateTransform attributeName="transform" type="rotate" from="0 482.0 180.0" to="360 482.0 180.0" dur="1.2s" repeatCount="indefinite"/></circle><circle cx="482.0" cy="180.0" r="3" fill="#d29922"/>
+<circle cx="592.0" cy="180.0" r="8" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<text x="626" y="184" font-size="11.5" fill="#9198a1">awaiting review</text>
+<text data-item="JuliaGPU/Metal.jl#1136" x="24" y="218" font-size="12.5" fill="#e6edf3"><tspan font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" fill="#9198a1">#1136</tspan>  Metal.jl</text>
+<line x1="382" y1="214" x2="472" y2="214" stroke="#30363d" stroke-width="2"/>
+<line x1="492" y1="214" x2="582" y2="214" stroke="#30363d" stroke-width="2"/>
+<circle cx="372.0" cy="214.0" r="9" fill="#3fb950"/><path d="M367.5 214.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="482.0" cy="214.0" r="8" fill="none" stroke="#d29922" stroke-width="2" stroke-dasharray="12 38"><animateTransform attributeName="transform" type="rotate" from="0 482.0 214.0" to="360 482.0 214.0" dur="1.2s" repeatCount="indefinite"/></circle><circle cx="482.0" cy="214.0" r="3" fill="#d29922"/>
+<circle cx="592.0" cy="214.0" r="8" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<text x="626" y="218" font-size="11.5" fill="#9198a1">awaiting review</text>
+<rect x="12" y="231.0" width="736" height="34" rx="4" fill="#151b23"/>
+<text data-item="SciML/DiffEqGPU.jl#592" x="24" y="252" font-size="12.5" fill="#e6edf3"><tspan font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" fill="#9198a1">#592</tspan>  DiffEqGPU.jl</text>
+<line x1="382" y1="248" x2="472" y2="248" stroke="#30363d" stroke-width="2"/>
+<line x1="492" y1="248" x2="582" y2="248" stroke="#30363d" stroke-width="2"/>
+<circle cx="372.0" cy="248.0" r="9" fill="#3fb950"/><path d="M367.5 248.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="482.0" cy="248.0" r="8" fill="none" stroke="#d29922" stroke-width="2" stroke-dasharray="12 38"><animateTransform attributeName="transform" type="rotate" from="0 482.0 248.0" to="360 482.0 248.0" dur="1.2s" repeatCount="indefinite"/></circle><circle cx="482.0" cy="248.0" r="3" fill="#d29922"/>
+<circle cx="592.0" cy="248.0" r="8" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<text x="626" y="252" font-size="11.5" fill="#9198a1">awaiting review</text>
+<text data-item="JuliaGPU/KernelAbstractions.jl#957" x="24" y="286" font-size="12.5" fill="#e6edf3"><tspan font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" fill="#9198a1">#957</tspan>  KernelAbstractions.jl</text>
+<line x1="382" y1="282" x2="472" y2="282" stroke="#3fb950" stroke-width="2"/>
+<line x1="492" y1="282" x2="582" y2="282" stroke="#30363d" stroke-width="2"/>
+<circle cx="372.0" cy="282.0" r="9" fill="#3fb950"/><path d="M367.5 282.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="482.0" cy="282.0" r="9" fill="#3fb950"/><path d="M477.5 282.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="592.0" cy="282.0" r="8" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<text x="626" y="286" font-size="11.5" fill="#9198a1">3 reviews</text>
+<rect x="12" y="299.0" width="736" height="34" rx="4" fill="#151b23"/>
+<text data-item="JuliaGPU/GPUArrays.jl#849" x="24" y="320" font-size="12.5" fill="#e6edf3"><tspan font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" fill="#9198a1">#849</tspan>  GPUArrays.jl</text>
+<line x1="382" y1="316" x2="472" y2="316" stroke="#3fb950" stroke-width="2"/>
+<line x1="492" y1="316" x2="582" y2="316" stroke="#3fb950" stroke-width="2"/>
+<circle cx="372.0" cy="316.0" r="9" fill="#3fb950"/><path d="M367.5 316.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="482.0" cy="316.0" r="9" fill="#3fb950"/><path d="M477.5 316.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="592.0" cy="316.0" r="9" fill="#3fb950"/><path d="M587.5 316.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<text x="626" y="320" font-size="11.5" fill="#9198a1">merged Nov 19</text>
+<text data-item="apache/wayang#873" x="24" y="354" font-size="12.5" fill="#e6edf3"><tspan font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" fill="#9198a1">#873</tspan>  wayang</text>
+<line x1="382" y1="350" x2="472" y2="350" stroke="#3fb950" stroke-width="2"/>
+<line x1="492" y1="350" x2="582" y2="350" stroke="#3fb950" stroke-width="2"/>
+<circle cx="372.0" cy="350.0" r="9" fill="#3fb950"/><path d="M367.5 350.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="482.0" cy="350.0" r="9" fill="#3fb950"/><path d="M477.5 350.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="592.0" cy="350.0" r="9" fill="#3fb950"/><path d="M587.5 350.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<text x="626" y="354" font-size="11.5" fill="#9198a1">merged Nov 12</text>
+<rect x="12" y="367.0" width="736" height="34" rx="4" fill="#151b23"/>
+<text data-item="JuliaGPU/KernelAbstractions.jl#948" x="24" y="388" font-size="12.5" fill="#e6edf3"><tspan font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" fill="#9198a1">#948</tspan>  KernelAbstractions.jl</text>
+<line x1="382" y1="384" x2="472" y2="384" stroke="#3fb950" stroke-width="2"/>
+<line x1="492" y1="384" x2="582" y2="384" stroke="#3fb950" stroke-width="2"/>
+<circle cx="372.0" cy="384.0" r="9" fill="#3fb950"/><path d="M367.5 384.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="482.0" cy="384.0" r="9" fill="#3fb950"/><path d="M477.5 384.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="592.0" cy="384.0" r="9" fill="#3fb950"/><path d="M587.5 384.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<text x="626" y="388" font-size="11.5" fill="#9198a1">merged Nov 7</text>
+<text data-item="JuliaGPU/GPUCompiler.jl#1089" x="24" y="422" font-size="12.5" fill="#e6edf3"><tspan font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" fill="#9198a1">#1089</tspan>  GPUCompiler.jl</text>
+<line x1="382" y1="418" x2="472" y2="418" stroke="#30363d" stroke-width="2"/>
+<line x1="492" y1="418" x2="582" y2="418" stroke="#30363d" stroke-width="2"/>
+<circle cx="372.0" cy="418.0" r="9" fill="#3fb950"/><path d="M367.5 418.0l3 3 6-6" stroke="#0d1117" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="482.0" cy="418.0" r="8" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="592.0" cy="418.0" r="9" fill="#9198a1"/><path d="M588.5 414.5l7 7m0 -7l-7 7" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+<text x="626" y="422" font-size="11.5" fill="#9198a1">superseded by #1094</text>
+<text x="24" y="476" font-size="11.5" font-weight="600" fill="#9198a1">REPORTS</text>
+<path data-item="JuliaGPU/KernelAbstractions.jl#949" d="M92.0 466.5L97.5 472.0L92.0 477.5L86.5 472.0Z" fill="#a371f7"/>
+<text x="102.0" y="476" font-size="11.5" fill="#e6edf3">#949 fixed</text>
+<path data-item="apache/wayang#895" d="M178.0 466.5L183.5 472.0L178.0 477.5L172.5 472.0Z" fill="#0d1117" stroke="#a371f7" stroke-width="1.4"/>
+<text x="188.0" y="476" font-size="11.5" fill="#e6edf3">#895 open</text>
+<path data-item="apache/wayang#884" d="M257.6 466.5L263.1 472.0L257.6 477.5L252.1 472.0Z" fill="#0d1117" stroke="#a371f7" stroke-width="1.4"/>
+<text x="267.6" y="476" font-size="11.5" fill="#e6edf3">#884 open</text>
+<path data-item="JuliaGPU/Metal.jl#1135" d="M337.2 466.5L342.7 472.0L337.2 477.5L331.7 472.0Z" fill="#0d1117" stroke="#a371f7" stroke-width="1.4"/>
+<text x="347.2" y="476" font-size="11.5" fill="#e6edf3">#1135 open</text>
+<path data-item="JuliaGPU/GPUCompiler.jl#1088" d="M423.2 466.5L428.7 472.0L423.2 477.5L417.7 472.0Z" fill="#a371f7"/>
+<text x="433.2" y="476" font-size="11.5" fill="#e6edf3">#1088 fixed</text>
+</svg>
